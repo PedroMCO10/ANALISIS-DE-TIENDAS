@@ -14,3 +14,12 @@ Mínimo de 3 gráficos diferentes, que pueden incluir gráficos de barras, circu
 **Recomendación:
 
 Después del análisis, escriba un texto explicando a qué tienda debería vender el Sr. Juan y por qué, basándose en los datos presentados.
+
+
+*** Ejemplos de Gráficos e Insights****
+A continuación, algunos de los gráficos generados durante el análisis:
+-Productos Más Vendidos
+-Evolución de Ventas Mensuales
+-Comportamiento de Clientes
+
+
